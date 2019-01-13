@@ -3,7 +3,7 @@ Image classifier with pytorch
 Google Colab code
 
 
-This is the code to classify flower images between 102 classes. The code is for Colab, to can use CUDA through the GPU of Google. The code is structured like follow:
+This is the code (image classifier_final.ipynb) to classify flower images between 102 classes. The code is for Colab, to can use CUDA through the GPU of Google. The code is structured like follow:
 
 1) Install Pytorch (is necessary install every time with you start your code)
 2) Import necessaries libreries
