@@ -1,4 +1,4 @@
-# Image Classifier with PyTorch
+# Image Classifier with PyTorch (Python)
 Image classifier with pytorch
 Google Colab code
 
